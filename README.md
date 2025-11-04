@@ -58,8 +58,6 @@ Follow these instructions to set up and run the project locally.
 
 This `README.md` file should give any user a clear understanding of your project and how to get it running. Let me know if you need any other modifications!
 
-#Contact
+#3 Contact
 
-For any questions or feedback, please contact ontact
-
-For any questions or feedback, please contact EMAIL].
+For any questions or feedback, please contact toxinformatics.iitr@gmail.com
